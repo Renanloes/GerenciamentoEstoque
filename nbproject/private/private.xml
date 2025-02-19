@@ -3,10 +3,7 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Renan/OneDrive/Documentos/NetBeansProjects/GestaoEstoque/src/DAO/ConexaoBanco.java</file>
-            <file>file:/C:/Users/Renan/OneDrive/Documentos/NetBeansProjects/GestaoEstoque/src/Telas/CrudUsuario.java</file>
-            <file>file:/C:/Users/Renan/OneDrive/Documentos/NetBeansProjects/GestaoEstoque/src/Telas/TelaLogin.java</file>
-            <file>file:/C:/Users/Renan/OneDrive/Documentos/NetBeansProjects/GestaoEstoque/src/Telas/ListaMaterial.java</file>
+            <file>file:/C:/Users/Renan/OneDrive/Documentos/NetBeansProjects/GestaoEstoque/src/DAO/UsuarioDAO.java</file>
         </group>
     </open-files>
 </project-private>

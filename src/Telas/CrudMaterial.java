@@ -1,8 +1,6 @@
 package Telas;
 
-//import crud.CRUDMaterial;
 import dao.MaterialDAO;
-//import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 import model.Material;
 
@@ -156,11 +154,11 @@ public class CrudMaterial extends javax.swing.JFrame {
     private void jTFQuantiaActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTFQuantiaActionPerformed
         // Código adicional para evento se necessário
     }
-
+/*
     private void jBConfirmarActionPerformed() {
 
     }//GEN-LAST:event_jTFQuantiaActionPerformed
-
+*/
     private void jBConfirmarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jBConfirmarActionPerformed
         // Obtém os valores preenchidos
         String descricao = jTFDescricao.getText();
